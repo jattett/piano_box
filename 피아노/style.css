@@ -1,0 +1,28 @@
+body {
+    background: url(https://t1.daumcdn.net/cfile/tistory/9960C8455A901F7E29);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.keys{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+}
+
+.keys2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+}
+
+.key {
+    margin: 1rem;
+    border: .4rem solid black;
+}
